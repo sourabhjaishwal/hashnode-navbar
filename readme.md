@@ -4,7 +4,7 @@
 
 ### Description
 
-A clean and simple navbar inspired by Hashnode, featuring links, a dropdown menu, and a sign-in button with smooth hover effects.
+A clean navbar inspired by Hashnode, with links, dropdown, and smooth hover effects.
 
 ### Screenshots
 
