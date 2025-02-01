@@ -6,6 +6,8 @@
 
 A clean navbar inspired by Hashnode, with links, dropdown, and smooth hover effects.
 
+➡️[Live Link](https://simple-login-card.vercel.app/)
+
 ### Screenshots
 
 ![Hashnode Navbar Screenshot 1](./assets/screenshot-1.png)
